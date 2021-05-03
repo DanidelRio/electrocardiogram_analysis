@@ -10,6 +10,8 @@ You will find interactive Jupyter notebooks for analyzing electrocardiogram (ECG
 7. **Recurrence plot:** Analysis of the ECG with recurrence plots.
 8. **Rest vs. exercise:** Comparison in one individual of two time series, before and after doing exercise. Uses previous techniques.
 9. **Batch processing rest vs. exercise:** Comparison of several individuals, before and after doing exercise.
+10. **Batch processing with meditation data:** Comparison of several recordings with different meditation techniques.
+11. **R-R intervals time series:** Phase space reconstruction and recurrence plot with R-R time series.
 
 
 In case you have any suggestions or questions regarding this repository, do not hesitate to contact ddelrio@ciencias.unam.mx
